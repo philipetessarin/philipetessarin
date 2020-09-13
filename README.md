@@ -2,11 +2,11 @@
   <img src="https://github.com/philipetessarin/philipetessarin/blob/master/github-page-header.png">
 </p>
 
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-My name is Philipe Tessarin.
+<p align="center">My name is Philipe Tessarin.</p>
 
-I work as a web developer.
+<p align="center">I work as a web developer.</p>
 
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
