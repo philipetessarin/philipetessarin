@@ -37,7 +37,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __w
 
 👯 Estou procurando colaborar em ... / I’m looking to collaborate on ...
 
-* Developing a website for the launch of an RPG book.You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
+* Desenvolvendo um site para o lançamento de um livro de RPG.Você pode acompanhar seu desenvolvimento <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicando aqui</a>. / Developing a website for the launch of an RPG book.You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
 
 ---
 
