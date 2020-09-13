@@ -8,7 +8,7 @@
 
 <p align="center">I work as a web developer.</p>
 
-![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html,javascript,php)](https://github.com/anuraghazra/github-readme-stats)
+![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin)
 
 
 - 🔭 I’m currently working on ...
