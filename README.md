@@ -6,7 +6,7 @@
 
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin&layout=compact)
 
 
 <!--
