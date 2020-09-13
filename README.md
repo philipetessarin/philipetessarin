@@ -1,23 +1,10 @@
 <p align="center">
   <img src="https://github.com/philipetessarin/philipetessarin/blob/master/github-page-header.png">
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/philipe-tessarin/">
-    <img align="center" alt="Philipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/phbens/">
-    <img align="center" alt="Philipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.facebook.com/phbens/">
-    <img align="center" alt="Philipe's Faceebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
-</p>
 
 ---
 
 <h2 align="center">Hi there 👋, I'm Philipe tessarin</h2>
-
-<br/>
 
 <p align="center">My name is Philipe Tessarin.</p>
 
@@ -63,6 +50,20 @@
 * JavaScript;
 * Node.js;
 * React.
+
+<h3 align="center">Feel free to connect and chat!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/philipe-tessarin/">
+    <img align="center" alt="Philipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/phbens/">
+    <img align="center" alt="Philipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/phbens/">
+    <img align="center" alt="Philipe's Faceebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+</p>
 
 
 <!--
