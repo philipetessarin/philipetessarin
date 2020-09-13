@@ -8,8 +8,6 @@
 
 Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __web developer__. I have a degree in __Internet Systems__ since 2018 and I am currently on the verge of becoming a __Full Stack JavaScript developer__.
 
-<p align="center">I work as a web developer.</p>
-
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&hide_border=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin)
