@@ -6,9 +6,9 @@
 
 <h2 align="center">Hey 👋, I'm Philipe</h2>
 
-Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __desenvolvedor web__. Sou formado em __Sistemas para Internet__ desde 2018 e atualmente estou prestes a me tornar um __Full Stack JavaScript developer__.
+Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __desenvolvedor web__. Sou formado em __Sistemas para Internet__ desde 2018 e atualmente estou prestes a me tornar um __desenvolvedor Full Stack JavaScript__.
 
-Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __web developer__. I have a degree in __Internet Systems__ since 2018 and I am currently on the verge of becoming a __desenvolvedor Full Stack JavaScript__.
+Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __web developer__. I have a degree in __Internet Systems__ since 2018 and I am currently on the verge of becoming a __Full Stack JavaScript developer__.
 
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&hide_border=true) 
 
