@@ -8,12 +8,12 @@
 
 <p align="center">I work as a web developer.</p>
 
-![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko) 
+![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&hide_border=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin)
 
 
-- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
 
 * Developing a website for the launch of an RPG book.You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
 
