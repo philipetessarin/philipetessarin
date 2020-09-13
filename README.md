@@ -4,9 +4,9 @@
 
 ---
 
-<h2 align="center">Hi there 👋, I'm Philipe tessarin</h2>
+<h2 align="center">Hey 👋, I'm Philipe</h2>
 
-<p align="center">My name is Philipe Tessarin.</p>
+<p align="center">Hi there, I'm Philipe Tessarin, a web developer. I have a degree in Internet Systems since 2018 and I am currently on the verge of becoming a Full Stack JavaScript developer.</p>
 
 <p align="center">I work as a web developer.</p>
 
