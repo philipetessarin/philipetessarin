@@ -8,11 +8,12 @@ My name is Philipe Tessarin.
 
 I work as a web developer.
 
-![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin&layout=compact)
+![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 
-* Developing a website for the launch of an RPG book.
+* Developing a website for the launch of an RPG book.You can follow its development by [clicking here](https://github.com/ErusKelayShimaru/Owden-Site).
 
 - 🌱 I’m currently learning ...
 
