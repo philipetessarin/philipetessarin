@@ -6,7 +6,7 @@
 
 <h2 align="center">Hey 👋, I'm Philipe</h2>
 
-<p align="center">Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __web developer__. I have a degree in __Internet Systems__ since 2018 and I am currently on the verge of becoming a __Full Stack JavaScript developer__.</p>
+Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __web developer__. I have a degree in __Internet Systems__ since 2018 and I am currently on the verge of becoming a __Full Stack JavaScript developer__.
 
 <p align="center">I work as a web developer.</p>
 
