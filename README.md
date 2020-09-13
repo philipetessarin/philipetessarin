@@ -4,15 +4,17 @@
 
 <h2 align="center">Hi there 👋, I'm Philipe tessarin</h2>
 
-<a href="https://www.linkedin.com/in/philipe-tessarin/">
-  <img align="left" alt="Philipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/phbens/">
-  <img align="left" alt="Philipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/phbens/">
-  <img align="left" alt="Philipe's Faceebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<div aligm="center"
+  <a href="https://www.linkedin.com/in/philipe-tessarin/">
+    <img align="left" alt="Philipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/phbens/">
+    <img align="left" alt="Philipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/phbens/">
+    <img align="left" alt="Philipe's Faceebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+</div>
 
 <p align="center">My name is Philipe Tessarin.</p>
 
