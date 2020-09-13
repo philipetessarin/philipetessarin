@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on ...
 
-* Developing a website for the launch of an RPG book.You can follow its development by [clicking here](https://github.com/ErusKelayShimaru/Owden-Site/?target=_blank).
+* Developing a website for the launch of an RPG book.You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
 
 - 🌱 I’m currently learning ...
 
