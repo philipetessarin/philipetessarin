@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Philipe Tessarin github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko)
+![Philipe Tessarin github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&theme=merko)
 
 
 <!--
