@@ -16,7 +16,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __w
 
 ---
 
-#### Languages and Tools:
+#### Linguagens e Ferramentas / Languages and Tools:
 
 <p align="center">
 
@@ -35,13 +35,13 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __w
 
 ---
 
-👯 I’m looking to collaborate on ...
+👯 Estou procurando colaborar em ... / I’m looking to collaborate on ...
 
 * Developing a website for the launch of an RPG book.You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
 
 ---
 
-🌱 I’m currently learning ...
+🌱 Atualmente estou aprendendo... / I’m currently learning ...
 
 * HTML5;
 * CSS3;
@@ -50,7 +50,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __w
 * Node.js;
 * React.
 
-<h3 align="center">Feel free to connect and chat!</h3>
+<h3 align="center">Sinta-se à vontade para se conectar e bater um papo! / Feel free to connect and chat!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/philipe-tessarin/">
