@@ -10,9 +10,11 @@ Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __desenvolvedor 
 
 Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __back-end Python developer__. I have a degree in __Internet Systems__ since 2018.
 
+<!--
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&hide_border=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipetessarin)
+-->
 
 ---
 
