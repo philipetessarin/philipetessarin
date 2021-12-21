@@ -6,9 +6,9 @@
 
 <h2 align="center">Hey 👋, I'm Philipe</h2>
 
-Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __desenvolvedor web__. Sou formado em __Sistemas para Internet__ desde 2018 e atualmente estou prestes a me tornar um __desenvolvedor Full Stack JavaScript__.
+Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __desenvolvedor back-end Python__. Sou formado em __Sistemas para Internet__ desde 2018.
 
-Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __web developer__. I have a degree in __Internet Systems__ since 2018 and I am currently on the verge of becoming a __Full Stack JavaScript developer__.
+Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __back-end Python developer__. I have a degree in __Internet Systems__ since 2018.
 
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&hide_border=true) 
 
@@ -25,8 +25,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __w
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
@@ -37,18 +36,17 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __w
 
 👯 Estou procurando colaborar em ... / I’m looking to collaborate on ...
 
-* Desenvolvendo um site para o lançamento de um livro de RPG. Você pode acompanhar seu desenvolvimento <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicando aqui</a>. / Developing a website for the launch of an RPG book. You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
+* Desenvolvendo um software para automatizar a instalação de programas. Você pode acompanhar seu desenvolvimento <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicando aqui</a>. / Developing software to automate the installation of programs. You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
 
 ---
 
 🌱 Atualmente estou aprendendo... / I’m currently learning ...
 
-* HTML5;
-* CSS3;
-* Framework Bulma;
-* JavaScript;
-* Node.js;
-* React.
+* API;
+* Flask;
+* Django;
+* Pandas;
+* Selenium;
 
 <h3 align="center">Sinta-se à vontade para se conectar e bater um papo! / Feel free to connect and chat!</h3>
 
