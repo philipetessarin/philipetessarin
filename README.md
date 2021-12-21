@@ -45,8 +45,8 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __B
 🌱 Atualmente estou aprendendo... / I’m currently learning ...
 
 * API;
-* Flask;
 * Django;
+* Flask;
 * Pandas;
 * Selenium;
 
