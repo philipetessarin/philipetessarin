@@ -48,7 +48,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __B
 * Django;
 * Flask;
 * Pandas;
-* Selenium;
+* Selenium.
 
 <h3 align="center">Sinta-se à vontade para se conectar e bater um papo! / Feel free to connect and chat!</h3>
 
