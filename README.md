@@ -38,7 +38,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __B
 
 👯 Estou procurando colaborar em ... / I’m looking to collaborate on ...
 
-* Desenvolvendo um software para automatizar a instalação de programas. Você pode acompanhar seu desenvolvimento <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicando aqui</a>. / Developing software to automate the installation of programs. You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>.
+* Desenvolvendo um software para automatizar a instalação de programas. <!-- Você pode acompanhar seu desenvolvimento <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicando aqui</a>. --> / Developing software to automate the installation of programs. <!--You can follow its development by <a href="https://github.com/ErusKelayShimaru/Owden-Site" target="_blank">clicking here</a>. -->
 
 ---
 
