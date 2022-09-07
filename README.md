@@ -6,9 +6,9 @@
 
 <h2 align="center">Hey 👋, I'm Philipe</h2>
 
-Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __Desenvolvedor Back-end Python__. Sou formado em __Sistemas para Internet__ desde 2018.
+Olá, sou __Philipe Tessarin__, atualmente moro no Brasil e sou __Desenvolvedor RPA Python__. Sou formado em __Sistemas para Internet__ desde 2018.
 
-Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __Back-end Python Developer__. I have a degree in __Internet Systems__ since 2018.
+Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __RPA Developer Python__. I have a degree in __Internet Systems__ since 2018.
 
 <!--
 ![Philipe Tessarin's github stats](https://github-readme-stats.vercel.app/api?username=philipetessarin&show_icons=true&hide_border=true) 
@@ -44,11 +44,7 @@ Hi there, I’m __Philipe Tessarin__, I currently live in Brazil and I’m a __B
 
 🌱 Atualmente estou aprendendo... / I’m currently learning ...
 
-* API;
-* Django;
-* Flask;
-* Pandas;
-* Selenium.
+* UiPath.
 
 <h3 align="center">Sinta-se à vontade para se conectar e bater um papo! / Feel free to connect and chat!</h3>
 
